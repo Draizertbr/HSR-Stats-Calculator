@@ -22,7 +22,8 @@ Be sure the total of number of rolls in each piece is 4 or 5.
 Select the setting of your substat rolls.  
 ![image](https://github.com/user-attachments/assets/a905a192-5344-4e50-bf25-7d1ffd81837b)  
 
-### Finish
+## Enjoy!
+Please do not the red box it plays a crucial roll....
 
 
 
