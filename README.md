@@ -1,4 +1,4 @@
-# HSR Caalculator
+# HSR Calculator
 
 ### Step 1 
 Enter the Base stats of your desired character and lightcone. Enter the data in the corresponding blue cells.\
