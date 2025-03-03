@@ -11,9 +11,9 @@ You may find these data in links below.<br/>
 
 ### Step 2
 Enter your desired main and sub stats for your relics in the corresponding cells.\
-Please use the appropriate shortcuts based on the second image below.
-![image](https://github.com/user-attachments/assets/0209db49-acc9-4f3a-acc1-605802c6da86)
-![image](https://github.com/user-attachments/assets/345d2411-c1fd-47f3-a8d0-fe64a5f4500c)
+![image](https://github.com/user-attachments/assets/0209db49-acc9-4f3a-acc1-605802c6da86)  
+Please use the appropriate shortcuts based in the image below.  
+![image](https://github.com/user-attachments/assets/345d2411-c1fd-47f3-a8d0-fe64a5f4500c)  
 
 
 
